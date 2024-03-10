@@ -96,7 +96,7 @@ class Tasks extends Component {
             </tbody>
           </table>
           <div className="d-flex justify-content-evenly">
-            <button className="btn btn-warning mt-5 px-5" onClick={this.PrevTasks}>
+          <button className="btn btn-warning mt-5 px-5" onClick={this.PrevTasks}>
               Previous
             </button>
             <button
